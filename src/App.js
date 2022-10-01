@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>chat to the world!</h1>
+        <h1>chat with the creator!</h1>
         <SignOut />
       </header>
 
