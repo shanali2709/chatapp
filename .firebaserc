@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "auth-development-fbfe2",
-    "staging": "auth-development-fbfe2"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "auth-development"
+  }
 }
